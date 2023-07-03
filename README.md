@@ -1,7 +1,6 @@
 ## App Setup
 
 ```
-git clone https://github.com/John-Weeks-Dev/deezer-clone.git
 
 npm i
 
